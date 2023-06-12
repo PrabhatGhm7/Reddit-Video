@@ -13,7 +13,7 @@ def finalvoice():
     
     #slow voice
     rate = engine.getProperty('rate')
-    engine.setProperty('rate', rate-50)
+    engine.setProperty('rate', rate-75)
     
     #say voice
     #engine.say(final_voice)
