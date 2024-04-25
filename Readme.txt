@@ -1,4 +1,7 @@
-installed modules along with versions
+Video creation bot that automatically fetch reddit post, create an audio reading it and then converts it into a video and renders it out.
+
+
+Requirements:
 pyttsx3==2.90
 praw==7.7.0
 requests
